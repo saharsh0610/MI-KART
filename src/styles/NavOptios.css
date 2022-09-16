@@ -2,7 +2,7 @@
     display: flex;
     background-color: white;
     justify-content:space-evenly;
-    padding: 2vmax;
+    padding: 0vmax;
     z-index: 1000;
 }
 
