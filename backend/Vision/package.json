@@ -1,0 +1,20 @@
+{
+  "name": "vision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cognitiveservices-computervision": "^8.2.0",
+    "async": "^3.2.4",
+    "chromium": "^3.0.3",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "playwright": "^1.25.2",
+    "puppeteer": "^17.1.3"
+  }
+}
